@@ -1,16 +1,25 @@
-# i_am_fierce
+# I am fierce
+---
 
-A new Flutter project.
+## Description
+Experimenting with Flutter breakpoints. An app that changes layout and design based on the screen orientation.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Languages, Libraries & Frameworks
+* Dart
+* Flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setup
+Clone the repository to a local directory
+cd into the directory and run `dart main.dart`or click on the debugger play icon to run in debug mode
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-07-11 at 18 42 14](https://github.com/NTielman/i_am_fierce/assets/70571238/9c4aa527-ea5f-4192-b075-d1c199a6de5a)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-07-11 at 18 42 06](https://github.com/NTielman/i_am_fierce/assets/70571238/c85fbb3b-fc94-4cbe-bc0a-158f5023fe67)
+![ezgif com-video-to-gif copy](https://github.com/NTielman/i_am_fierce/assets/70571238/c7c1da35-712b-4278-abeb-93343dcff8d2)
+
+
+## Credits
+This web app was built as part of https://and-digital.udemy.com/course/flutter-bootcamp-with-dart/learn/ 's course assignment 
